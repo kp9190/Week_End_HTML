@@ -1,0 +1,50 @@
+=> Web Development
+	Website --> static 
+	WebApp  --> dynamic
+
+    website --> multip webpages
+    webpages--> html file
+	
+Basic: 
+	html ---> hyper text markup language 	---> structure of website
+	css  ---> cascading style sheet	 		---> design/ style
+	js   ---> javascript 					---> functionality
+	
+=======================================================
+
+hyper -> link (depand on text) 
+text  -> content  (texture,images,videos,ect..)
+
+markup language -> encoding system
+
+<content> --> html tag
+	website content
+</content>
+
+=======================================================
+founder :- tim berner's lee
+
+
+html 1.0 --> 1991  info.cern.ch
+
+html 2.0 --> 1995
+
+html 3.0 --> jan,1997 fail 
+
+html 4.0 --> dec,1997
+
+html 5.0 --> 2014
+	 5.2 --> 2017
+
+--> Not show Erre 
+	 
+--> validator.w3.org/
+
+
+
+
+
+
+ 
+
+	
